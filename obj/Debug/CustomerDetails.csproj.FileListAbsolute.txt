@@ -1,0 +1,6 @@
+D:\Project\CustomerDetails\CustomerDetails\bin\Debug\CustomerDetails.exe.config
+D:\Project\CustomerDetails\CustomerDetails\bin\Debug\CustomerDetails.exe
+D:\Project\CustomerDetails\CustomerDetails\bin\Debug\CustomerDetails.pdb
+D:\Project\CustomerDetails\CustomerDetails\obj\Debug\CustomerDetails.csprojResolveAssemblyReference.cache
+D:\Project\CustomerDetails\CustomerDetails\obj\Debug\CustomerDetails.exe
+D:\Project\CustomerDetails\CustomerDetails\obj\Debug\CustomerDetails.pdb
